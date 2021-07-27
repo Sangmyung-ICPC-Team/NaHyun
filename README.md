@@ -1,5 +1,5 @@
 # NaHyun
-<img src="https://img.shields.io/badge/Android-00399C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/00399C?style=flat-square&logo=C++&logoColor=white"/>
 
 
 
