@@ -1,4 +1,7 @@
 # NaHyun
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=C&logoColor=white"/>
+
+
 
  #2021 Summer Vacation 
  =====================
