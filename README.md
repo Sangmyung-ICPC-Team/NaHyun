@@ -8,7 +8,7 @@
 
 
  # :wind_chime: 2021 Summer Vacation 
- =====================
+
  Date | Problems
  -----|-----------
  07.11 ~ 07.16  |  :bulb: 6 
