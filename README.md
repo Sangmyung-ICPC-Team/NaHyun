@@ -18,3 +18,9 @@
  07.20 ~ 07.26  |  :bulb: 10 
  07.27 ~ 07.30  |  :bulb: 10
  08.03 ~ 08.08  |  :bulb: 10
+
+ # :wind_chime: 2022 Winter Vacation 
+
+ Date | Problems
+ -----|-----------
+ 12.30 ~ 01.06  |  :bulb: 3 
